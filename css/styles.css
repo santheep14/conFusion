@@ -28,3 +28,9 @@ body{
     padding:50px 0px 0px 0px;
     z-index:0;
 }
+.tab-content{
+    border-left: 1px solid #bbb;
+    border-right: 1px solid #bbb;
+    border-bottom: 1px solid #bbb;
+    padding: 10px;
+}
